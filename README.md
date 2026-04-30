@@ -7,12 +7,13 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Start
 2.Read two numbers (A, B)
 3.Add A and B → Result
 4.Display Result
 5.Stop
-
+```
 
 ## Program:
 ```
@@ -51,7 +52,8 @@ print("Predicted Species:", iris.target_names[prediction][0])
 
 ## Output:
 ```
-![Uploading Screenshot 2026-04-30 143900.png…]()
+<img width="696" height="59" alt="Screenshot 2026-04-30 143900" src="https://github.com/user-attachments/assets/07b3b11b-958e-46c5-abd6-536260d6ae77" />
+
 
 ```
 
